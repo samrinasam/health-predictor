@@ -10,7 +10,6 @@ setup_page()
 create_navbar()
 
 # ------------------- Content -------------------
-lottie_doctor = load_lottie_url("https://lottie.host/348e2357-d823-499e-9f82-962fd4bcadb7/aTZ0qGgaC8.json")
 
 st.title("🏥 Health Predictor")
 st.subheader("Early Stage Diabetes Risk Prediction")
