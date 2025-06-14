@@ -23,6 +23,8 @@ With this application, hospitals and clinics can quickly assess risk levels and 
 
 gif_path = "assets/doctor.gif"
 
+
+
 try:
     st.image(gif_path, width=200)
 except Exception as e:
